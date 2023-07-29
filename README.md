@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prpradhan13
-- 👀 I’m interested in Python Devloper
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Full Stack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ppritiranjan7@gmail.com
 
