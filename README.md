@@ -1,7 +1,6 @@
 # Hi there, I'm Pritiranjan Pradhan 👋
 I'm an experienced Full Stack Web Developer specializing in scalable web applications. I have a strong background in the MERN stack and enjoy creating seamless and efficient user experiences.
 
-- 🔭 I’m currently working on: <a href="URL_TO_PROJECT" target="_blank">[Your Current Project]</a>
 - 🌱 I’m currently learning: Next.js, PostgressSQL
 - 👯 I’m looking to collaborate on: MERN stack / Frontend / Backend / Fullstack projects 
 - 💬 Ask me about: Web Development, Fullstack Development (Javascript)
