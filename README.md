@@ -1,6 +1,5 @@
 # Hi there, I'm Pritiranjan Pradhan 👋
-
-<p style="font-size: 18px; color: #333;">I'm an experienced Full Stack Web Developer specializing in scalable web applications. I have a strong background in the MERN stack and enjoy creating seamless and efficient user experiences.</p>
+I'm an experienced Full Stack Web Developer specializing in scalable web applications. I have a strong background in the MERN stack and enjoy creating seamless and efficient user experiences.
 
 - 🔭 I’m currently working on: <a href="URL_TO_PROJECT" target="_blank">[Your Current Project]</a>
 - 🌱 I’m currently learning: Next.js, PostgressSQL
@@ -40,11 +39,24 @@
 
 ## Projects
 
-### Project 1: <a href="https://fitpr.netlify.app" target="_blank"> Fitness </a>
-<p style="font-size: 16px; color: #555;">Description of the project. What problem does it solve? What technologies did you use?</p>
+### Project 1: [Fitness](https://fitpr.netlify.app)
+Check out my fitness site, where you can explore a variety of fitness training programs. This site helps users find the perfect workout and diet plans, all created by me. Users can log in to download these plans, which are available for free.
 
-### Project 2: <a href="URL_TO_PROJECT" target="_blank"> My Portfolio </a>
-<p style="font-size: 16px; color: #555;">Description of the project. What problem does it solve? What technologies did you use?</p>
+- **Technologies Used**: HTML, CSS, JavaScript, React, Tailwind, Node, Express, MongoDB, Aceternity UI
+- **Features**: 
+  - Comprehensive workout and diet plans
+  - Free access to all plans
+  - User-friendly login and download system
+- **Purpose**: To provide accessible fitness resources and personalized training programs to help users achieve their fitness goals.
+
+### Project 2: [My Portfolio](https://prpradhan13.github.io/myprotfolio/)
+Explore my portfolio to see a collection of my recent work and projects. This site showcases my skills, experience, and various web applications I’ve developed. You can find details about my approach to coding, project summaries, and links to live demos or repositories.
+
+- **Technologies Used**: HTML, CSS, JavaScript
+- **Features**: Responsive design, interactive elements, project showcases
+- **Purpose**: To provide a comprehensive view of my professional skills and accomplishments.
+
+Feel free to explore these repositories to see more of my work and get insights into the projects I’ve been involved in. Each project repository includes detailed information, documentation, and code examples.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prpradhan13&layout=compact&theme=radical" alt="Top Langs">
 
