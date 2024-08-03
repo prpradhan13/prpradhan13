@@ -1,7 +1,7 @@
 # Hi there, I'm Pritiranjan Pradhan 👋
 I'm an experienced Full Stack Web Developer specializing in scalable web applications. I have a strong background in the MERN stack and enjoy creating seamless and efficient user experiences.
 
-- 🌱 I’m currently learning: Next.js, PostgressSQL
+- 🌱 I’m currently learning: Phaser js (2D Game Development)
 - 👯 I’m looking to collaborate on: MERN stack / Frontend / Backend / Fullstack projects 
 - 💬 Ask me about: Web Development, Fullstack Development (Javascript)
 - 📫 How to reach me: <a href="mailto:ppritiranjan7@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/prpradhan13" target="_blank">LinkedIn</a>
