@@ -38,7 +38,18 @@ I'm an experienced Full Stack Web Developer specializing in scalable web applica
 
 ## Projects
 
-### Project 1: [Fitness](https://fitpr.netlify.app)
+### Project 1: [PZero](https://pzero.vercel.app)
+Developed a full-stack application, featuring secure email verification for new users, enables users to track daily expenses with interactive graphs, Built a comprehensive workout plan system, Implemented a weekly workout plan feature, Created a task management system. 
+
+- **Technologies Used**:  React, Node.js, Express, Nodemailer, Mongodb, Tailwind css, Tanstack Query.
+- **Features**: 
+  - Secure email verification for new users
+  - Track daily expenses with interactive graphs
+  - Implemented a weekly workout plan feature
+  - Task management system with real-time progress tracking
+- **Purpose**: To track everything in one app.
+
+### Project 2: [Fitness](https://fitpr.netlify.app)
 Check out my fitness site, where you can explore a variety of fitness training programs. This site helps users find the perfect workout and diet plans, all created by me. Users can log in to download these plans, which are available for free.
 
 - **Technologies Used**: HTML, CSS, JavaScript, React, Tailwind, Node, Express, MongoDB, Aceternity UI
@@ -48,7 +59,7 @@ Check out my fitness site, where you can explore a variety of fitness training p
   - User-friendly login and download system
 - **Purpose**: To provide accessible fitness resources and personalized training programs to help users achieve their fitness goals.
 
-### Project 2: [My Portfolio](https://prpradhan13.github.io/myprotfolio/)
+### Project 3: [My Portfolio](https://prpradhan13.github.io/myprotfolio/)
 Explore my portfolio to see a collection of my recent work and projects. This site showcases my skills, experience, and various web applications I’ve developed. You can find details about my approach to coding, project summaries, and links to live demos or repositories.
 
 - **Technologies Used**: HTML, CSS, JavaScript
