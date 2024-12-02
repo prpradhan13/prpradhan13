@@ -27,7 +27,7 @@ I'm an experienced Full Stack Web Developer specializing in scalable web applica
 
 ### Tools & Platforms
 <div style="display:flex; width:100%;">
-    <img src="[https://dl.dropboxusercontent.com/scl/fi/fqt9ah23jgzmlvltpsus7/icons8-github-50.png?rlkey=h3w1vj9y82cam7yalle4ghwoi&st=mwjywjts&dl=0](https://www.dropbox.com/scl/fi/fqt9ah23jgzmlvltpsus7/icons8-github-50.png?rlkey=h3w1vj9y82cam7yalle4ghwoi&st=upupkvsg&dl=0)" alt="js" style="width:50px; height:auto;"/>
+    <img src="https://dl.dropboxusercontent.com/scl/fi/fqt9ah23jgzmlvltpsus7/icons8-github-50.png?rlkey=h3w1vj9y82cam7yalle4ghwoi&st=upupkvsg&dl=0" alt="github" style="width:50px; height:auto;"/>
     <img src="https://dl.dropboxusercontent.com/scl/fi/e3w52bvppub8k2ww6cxjk/icons8-vs-code-48.png?rlkey=q1owkm60qpmk8rowggv9t5t1h&st=f0aqqinu&dl=0" alt="js" style="width:50px; height:auto;"/>
     <img src="https://dl.dropboxusercontent.com/scl/fi/ccu61hqagg8ivrpjm4m35/icons8-docker-48.png?rlkey=2du0u3vbw6gbd1t8etgqon1up&st=wugmwwmv&dl=0" alt="js" style="width:50px; height:auto;"/>
     <img src="https://dl.dropboxusercontent.com/scl/fi/s3p7xo55vwgqof82zp5jz/icons8-postman-api-48.png?rlkey=7522zkvfjba6skrrmng55m1sc&st=bfb317ci&dl=0" alt="js" style="width:50px; height:auto;"/>
