@@ -1,7 +1,7 @@
 # Hi, I'm Pritiranjan Pradhan
 
-# 💫 About Me:
- 🌱 I’m currently learning: React Native & AI/ML.<br>👯 I’m looking to collaborate on: MERN stack / Frontend / Backend / Fullstack projects / React Native.<br>💬 Ask me about: Web Development, Fullstack Development (Javascript).<br>
+## 💫 About Me:
+ Hii I'm PritiranjanPradhan and i completed my bachelors in 2023, I transitioned from a background in civil engineering to the dynamic world of web development in 2023. Starting with the fundamentals—HTML, CSS, and JavaScript—I built interactive websites that laid a strong foundation for my skills. As I progressed, I dive into modern frameworks like React for single page application  and Tailwind CSS, shadcn to refine my UI development expertise.<br>Expanding my skills, I dive into backend development and database management, for build and deploy full-stack applications. Currently, I am exploring and building mobile apps with React Native, aiming to create impactful digital solutions. My journey is defined by continuous learning, hands-on project development, and a commitment to growing as a versatile developer in the tech industry.
 
 
 ## 🌐 Socials:
